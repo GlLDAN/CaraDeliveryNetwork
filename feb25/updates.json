@@ -1,9 +1,9 @@
 {
   "gameonly": {
-    "version": "27753456164462cf026ed9b60edcd7d21d01bee687db77b3de2613747c0201b5",
+    "version": "7d9255a3f4e0f53282f6d75d6ae03dc31d1fe604c71e28eec404e9310192b490",
     "pretty_version": "v1.21",
     "renpy_version": "8.4.1.25072401",
     "rpu_url": "rpu/gameonly.files.rpu",
-    "rpu_digest": "b7edf9f840a91fbf69081d45e936067db80ea809cdfaa8fd08e3472c6ced1b83"
+    "rpu_digest": "94cd71365888f27ae7af7ac1a35754c26551bdc8adeca0165eaa2554c544ba62"
   }
 }
